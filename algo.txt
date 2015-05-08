@@ -1,0 +1,18 @@
+city: bali, indonesia
+steps:
+1. search for location of bali 
+2. set of filters: 
+	bali
+	  ubud
+	    samaya
+	      pool
+              food
+              diningarea
+	      
+
+get list of tags for all the images.
+get the image recognition for all the images.
+output the tags vs image recognition results
+
+if no tag below bali/ubud, ignore the result.
+
