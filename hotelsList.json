@@ -1,0 +1,16 @@
+[{"main_image": "image1", 
+ "title": "desc1",
+  "address": "desc2",
+  "avg_nightly_price": "desc4",
+  "awesome": ["attr1", "attr2", "attr3"],
+  "good": ["location"],
+  "bad": ["food", "kids friendly"]
+ },
+{"main_image": "image1", 
+ "title": "desc1",
+  "address": "desc2",
+  "avg_nightly_price": "desc4",
+  "awesome": ["attr1", "attr2", "attr3"],
+  "good": ["location", "room quality"],
+  "bad": ["food", "kids friendly"]
+ }] 
